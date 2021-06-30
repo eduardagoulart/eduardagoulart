@@ -8,7 +8,7 @@ I'm Brazilian, borned and raised at Minas Gerais. I love playing around with dat
 - 💬 Ask me about data analysis or engineering, Pandas, Python
 - 📫 How to reach me (email): goularteduarda.a@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love taking pics, drawing and reading during my spare time.
+- ⚡ Fun fact: I love taking pics, drawing, reading or playing video games during my spare time.
 
 
 <div>
