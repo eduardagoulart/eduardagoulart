@@ -1,6 +1,6 @@
 ### About me 👋
 
-I'm Brazilian, borned and raised at Minas Gerais. I love playing around with data and learn new things
+I'm Brazilian, born and raised in Minas Gerais. I love playing around with data and learn new things
 - 🔭 I’m currently working as a Lead Data Engineer
 - 🌱 I'm learning PySpark
 - 👯 I’m looking to collaborate with any Data Engineering/Data Science project
