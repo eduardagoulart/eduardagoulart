@@ -4,7 +4,7 @@ I'm Brazilian, born and raised in Minas Gerais. I love playing around with data 
 - 🔭 I’m currently working as a Lead Data Engineer
 - 🌱 I'm learning PySpark
 - 👯 I’m looking to collaborate with any Data Engineering/Data Science project
-- 🤔 I’m looking for help with projects I can learn more Spark and Scala
+- 🤔 I’m looking for help with projects I can learn more Spark and Airflow
 - 💬 Ask me about data analysis or engineering, Pandas, Python
 - 📫 How to reach me (email): goularteduarda.a@gmail.com
 - 😄 Pronouns: she/her
